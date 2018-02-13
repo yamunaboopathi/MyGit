@@ -1,1 +1,3 @@
-This is my sample file to learn GIT
+This is my sample file to learn GIT.
+
+I have done some changes
